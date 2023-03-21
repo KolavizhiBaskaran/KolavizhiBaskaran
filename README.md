@@ -1,5 +1,5 @@
 <h1 align="center">Hi .., I'm Kolavizhibaskaran</h1>
-<h3 align="center">.A front-end developer architects and develops websites and applications using web technologies (HTML, CSS, DOM, and JavaScript ,React)</h3>
+<h3 align="center">A front-end developer architects and develops websites and applications using web technologies (HTML, CSS, DOM, and JavaScript ,React)</h3>
 <img align="right" alt="coding" width="400" src="https://static.vecteezy.com/system/resources/previews/000/227/854/original/female-developer-vector.jpg"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kolavizhibaskaran&label=Profile%20views&color=0e75b6&style=flat" alt="kolavizhibaskaran" /> </p>
