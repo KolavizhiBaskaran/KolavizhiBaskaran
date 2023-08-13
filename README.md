@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kolavizhibaskaran&label=Profile%20views&color=0e75b6&style=flat" alt="kolavizhibaskaran" /> </p>
 
-- I'm A Frontend Developer **Framework** 
+- I'm A Frontend Developer **Framework**  Also a designer **Product Designer** 
 - 🔭 I’m currently working Project on **ChatApp**
 - I'm a Workholic person **Hardworker**
 
